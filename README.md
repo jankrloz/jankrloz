@@ -2,7 +2,7 @@
 
 **Head of Architecture · Konfío · Mexico City**
 
-11+ years in software engineering (4+ years in architecture leadership). Designing AWS Well-Architected cloud foundations, Internal Developer Platforms, and enterprise AI platforms for a regulated fintech pursuing banking-license readiness.
+11+ years in software engineering (~4 years in architecture leadership). Designing AWS Well-Architected cloud foundations, Internal Developer Platforms, and enterprise AI platforms for a regulated fintech pursuing banking-license readiness.
 
 `Site:` [jankrloz.vercel.app](https://jankrloz.vercel.app/) · `CV:` [jankrloz.vercel.app/cv](https://jankrloz.vercel.app/cv/) · `LinkedIn:` [linkedin.com/in/jankrloz](https://www.linkedin.com/in/jankrloz/)
 
