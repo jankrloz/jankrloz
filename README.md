@@ -12,7 +12,7 @@
 
 - **AI Platforms & AI-DLC** — Defined and co-led a KrakenD AI Gateway with Dynamic LLM Routing (Anthropic, OpenAI, Vertex AI, AWS Bedrock) and an internal MLOps Platform (Model-as-a-Service, Feature Store, automated evals). Created and rolled out an inner-source 8-phase AI-DLC Agent Meta-Harness, reusable Skills, and MCP integrations for Claude Code and Cursor.
 - **Architecture Center & IDP** — Founded Konfío's Architecture Center of Excellence (Standards, ADRs, Enterprise Tech Radar, Architecture Companion Program). Built initial Golden Paths, workspace templates, and the Kafka Events SDK; designed and currently lead cross-team MVP delivery for a unified CMDB and Software Catalog (in progress).
-- **Cloud Topology & Regulatory Readiness** — Architected and shipped an automated multi-account Cloud & DR Discovery Catalog (9 sources, `15,800+` AWS resources, `1M+` dependency edges, `420` workloads in `25` days). Defined target PCI-DSS CDE isolation strategy and contributed to multi-region DR strategy, AWS region standardization, and `200+ TB` replication models.
+- **Cloud Topology & Regulatory Readiness** — Architected and shipped an automated multi-account Cloud & DR Discovery Catalog (9 sources, `15,800+` AWS resources, `1M+` dependency edges, `420` workloads in `25` days). Defined target PCI-DSS CDE isolation strategy for regulated payment-entity audit readiness and contributed to multi-region DR strategy, AWS region standardization, and active-active & warm stand-by replication models.
 
 ---
 
